@@ -91,7 +91,7 @@ Autores: Ana Fernanda Gomes Ascêncio & Edilene Aparecida Veneruchi de Campos
 
 1. ⚙️ Certifique-se de ter o **Java JDK** instalado.  
 2. 🖥️ Abra o projeto na **IDE Eclipse**.  
-3. 🔎 Localize a classe `Main.java` em cada exercício.  
+3. 🔎 Localize a classe `Principal.java` em cada exercício.  
 4. ▶️ Execute a aplicação clicando em **Run**.  
 
 ---
