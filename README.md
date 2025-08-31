@@ -1,11 +1,10 @@
-<h1 style="color:#4B0082;">📚 Repositório de Programação Orientada a Objetos</h1>
-<h3 style="color:#6A5ACD;">💻 POO - 2025.2 - TIP4</h3>
+<h1>📚 Repositório de Programação Orientada a Objetos</h1>
+<h3 style="color:#4B0082;">💻 POO - 2025.2 - TIP4</h3>
 
 <img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="70" alt="Java logo"/>
 <img align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="70" alt="Eclipse IDE logo"/>
 
 ![Status](https://img.shields.io/badge/Status-Em%20Andamento-yellow)
-![Contribuições](https://img.shields.io/badge/Contribuições-Bem--vindas-brightgreen)
 
 ---
 
@@ -30,7 +29,7 @@ Aqui serão publicadas as resoluções das listas `Lista-01`, `Lista-02` e `List
 
 <h2 style="color:#008080;">👥 Membros da Equipe</h2>
 
-| ✏️ Nome do Aluno      | 🎓 Matrícula      | 🐈‍⬛ GitHub |
+| 🧑 Nome Completo do Aluno      | 🎓 Matrícula      | 🌐 GitHub |
 | ------------------------------ | ---------------- | --------- |
 | Fca. Mariane S. da Silva       | 20241321000031   | [@Maryaanee](https://github.com/Maryaanee) |
 | José Hadriel M. dos Santos     | 20241321000043   | [@HadrielZ10](https://github.com/HadrielZ10) |
@@ -39,7 +38,7 @@ Aqui serão publicadas as resoluções das listas `Lista-01`, `Lista-02` e `List
 
 <h2 style="color:#6A5ACD;">📂 Estrutura do Repositório</h2>
 
-<pre style="background-color:#f0f0f0; padding:12px; border-radius:8px;">
+<pre style="background-color:#f0f0f0; padding:10px; border-radius:6px;">
 POO-2025.2-TIP4/
 ├── Lista-01/
 │   ├── Exercicios Resolvidos/
@@ -53,9 +52,9 @@ POO-2025.2-TIP4/
 └── README.md
 </pre>
 
-- **📘 [Lista-01](./Lista-01/)** → Exercícios resolvidos e propostos da primeira lista.  
-- **📗 [Lista-02](./Lista-02/)** → Exercícios resolvidos e propostos da segunda lista.  
-- **📙 [Lista-03](./Lista-03/)** → Exercícios resolvidos e propostos da terceira lista.  
+- **[`/Lista-01`](./Lista-01/)** → 📘 Exercícios resolvidos e propostos da primeira lista.  
+- **[`/Lista-02`](./Lista-02/)** → 📗 Exercícios resolvidos e propostos da segunda lista.  
+- **[`/Lista-03`](./Lista-03/)** → 📙 Exercícios resolvidos e propostos da terceira lista.  
 
 ---
 
@@ -70,19 +69,21 @@ Autores: Ana Fernanda Gomes Ascêncio & Edilene Aparecida Veneruchi de Campos
 
 <h2 style="color:#20B2AA;">📒 Divisão por Listas</h2>
 
-- **LISTA-01** 📝 <span style="color:#1E90FF;">(Cap. 03 - Estrutura Sequencial)</span>  
+- **LISTA-01** 📝  
   - ✅ Exercícios 1º ao 10º (Resolvidos)  
   - 🧩 Exercícios 1º ao 5º (Propostos)  
-  - 📌 [Acessar Lista-01](./Lista-01/)
+  - 📘 Capítulo 03 → Estrutura Sequencial  
 
-- **LISTA-02** 📝 <span style="color:#FF8C00;">(Cap. 04 & 05 - Condicional & Repetição)</span>  
+- **LISTA-02** 📝  
   - ✅ Exercícios 1º ao 10º (Resolvidos)  
   - 🧩 Exercícios 1º ao 5º (Propostos)  
-  - 📌 [Acessar Lista-02](./Lista-02/)
+  - 📗 Capítulo 04 → Estrutura Condicional  
+  - 📗 Capítulo 05 → Estrutura de Repetição  
 
-- **LISTA-03** 📝 <span style="color:#32CD32;">(Cap. 06 & 08 - Vetor & Sub-rotina)</span>  
+- **LISTA-03** 📝  
   - ✅ Exercícios 1º ao 10º (Resolvidos)  
-  - 📌 [Acessar Lista-03](./Lista-03/)
+  - 📙 Capítulo 06 → Vetor  
+  - 📙 Capítulo 08 → Sub-rotina  
 
 ---
 
@@ -90,7 +91,7 @@ Autores: Ana Fernanda Gomes Ascêncio & Edilene Aparecida Veneruchi de Campos
 
 1. ⚙️ Certifique-se de ter o **Java JDK** instalado.  
 2. 🖥️ Abra o projeto na **IDE Eclipse**.  
-3. 🔎 Localize a classe `Principal.java` em cada exercício.  
+3. 🔎 Localize a classe `Main.java` em cada exercício.  
 4. ▶️ Execute a aplicação clicando em **Run**.  
 
 ---
